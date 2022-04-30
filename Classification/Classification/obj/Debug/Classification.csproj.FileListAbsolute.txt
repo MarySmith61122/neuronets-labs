@@ -1,0 +1,11 @@
+C:\Users\Masha\source\repos\Нейросети\Classification\Classification\obj\Debug\Classification.csproj.AssemblyReference.cache
+C:\Users\Masha\source\repos\Нейросети\Classification\Classification\obj\Debug\Classification.csproj.SuggestedBindingRedirects.cache
+C:\Users\Masha\source\repos\Нейросети\Classification\Classification\obj\Debug\Classification.Form1.resources
+C:\Users\Masha\source\repos\Нейросети\Classification\Classification\obj\Debug\Classification.Properties.Resources.resources
+C:\Users\Masha\source\repos\Нейросети\Classification\Classification\obj\Debug\Classification.csproj.GenerateResource.cache
+C:\Users\Masha\source\repos\Нейросети\Classification\Classification\obj\Debug\Classification.csproj.CoreCompileInputs.cache
+C:\Users\Masha\source\repos\Нейросети\Classification\Classification\bin\Debug\Classification.exe.config
+C:\Users\Masha\source\repos\Нейросети\Classification\Classification\bin\Debug\Classification.exe
+C:\Users\Masha\source\repos\Нейросети\Classification\Classification\bin\Debug\Classification.pdb
+C:\Users\Masha\source\repos\Нейросети\Classification\Classification\obj\Debug\Classification.exe
+C:\Users\Masha\source\repos\Нейросети\Classification\Classification\obj\Debug\Classification.pdb
